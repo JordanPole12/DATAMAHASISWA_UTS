@@ -1,12 +1,12 @@
 ![Screenshot Dashboard](img/HELM.jpeg)
-# Judul Besar (H1)
-## Judul Sedang (H2)
-### Judul Kecil (H3)
+# DATA_MAHASISWA
 
-**Teks Tebal (Bold)**
-*Teks Miring (Italic)*
 
-- Poin List
-- Poin List lainnya
+**Nama: Awamirillah Qornaini**
+**Kelas: TI 4A**
+**MATKUL: Pemrograman Web**
 
-`kode singkat` (Inline code)
+- Aplikasi ini merupakan sistem manajemen data mahasiswa yang mengintegrasikan basis data MySQL dengan antarmuka web untuk melakukan operasi CRUD (Create, Read, Update, Delete), termasuk fitur manajemen file yang otomatis menyimpan, mengganti, dan menghapus foto profil fisik di folder img/ agar sinkron dengan data di database.
+
+
+

@@ -1,5 +1,5 @@
 # DATA_MAHASISWA
-![Screenshot Dashboard](img/Screenshot 2026-05-08 083718.png=@Screenshot 2026-05-08 083718,0)
+![Screenshot Dashboard](img/TAMPILAN.png)
 
 
 - **Nama: Awamirillah Qornaini**
